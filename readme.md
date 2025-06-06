@@ -19,7 +19,7 @@ Desenvolvido para ser leve, responsivo e acessível via **computadores ou celula
 
 ## 📷 Prévia da Interface
 
-![ConnectOne Screenshot](./screenshot.png)  
+![ConnectOne Screenshot](./img/connectone.png)  
 *Interface responsiva em HTML5 com console de comunicação BLE*
 
 ---
@@ -28,12 +28,14 @@ Desenvolvido para ser leve, responsivo e acessível via **computadores ou celula
 
 ```plaintext
 📁 ConnectOne/
-├── index.html         # Página principal com interface e lógica JavaScript
+    ├── index.html         
     📁 script/
-    ├── script.js
+        ├── script.js
     📁 style/
-    ├── style.css
-└── README.md          # Este arquivo
+        ├── style.css
+    📁 img/
+        ├── connectone.png    
+    └──README.md          
 ```
 
 ## 🛠️ Como usar
