@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="style/style.css">
+  <title>HM-10 BLE Terminal</title>  
+</head>
+<body>
+  <h2>HM-10 BLE Terminal</h2>
+  <div class="controls">  
+    <button onclick="connect()">🔗 Conectar</button>
+    <button onclick="disconnecting()">❌ Desconectar</button><br><br>
+    <input type="text" id="comando" placeholder="Digite o comando" />
+    <button onclick="sendCommand()">📤 Enviar Comando</button>
+  </div> 
+
+  <h3>📥 Recebido:</h3>
+  <div id="log">Aguardando conexão...</div>
+
+  <script src="script/script.js"></script>
+</body>
+</html>
