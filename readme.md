@@ -1,4 +1,4 @@
-# 🔗 ConnectOne
+# 🔗 ConnectOne - 🔗 [Site Connect One](https://leocsbh007.github.io/ConnectOne/)
 
 **ConnectOne** é uma interface web que permite conectar, enviar e receber dados de dispositivos Bluetooth Low Energy (BLE), como o módulo **HM-10**, diretamente do navegador — sem necessidade de instalação de software nativo.
 
@@ -19,8 +19,13 @@ Desenvolvido para ser leve, responsivo e acessível via **computadores ou celula
 
 ## 📷 Prévia da Interface
 
-![ConnectOne Screenshot](./img/connectone.png)  
+![ConnectOne Screenshot](./img/interface.png)  
 *Interface responsiva em HTML5 com console de comunicação BLE*
+
+## 📷 Icone do Projeto
+
+![ConnectOne Screenshot](./img/connectone.png)  
+*Icone projeto*
 
 ---
 
@@ -35,6 +40,7 @@ Desenvolvido para ser leve, responsivo e acessível via **computadores ou celula
         ├── style.css
     📁 img/
         ├── connectone.png    
+        ├── interface.png    
     └──README.md          
 ```
 
@@ -95,9 +101,9 @@ Este projeto está licenciado sob a MIT License.
 
 ## 👨‍💻 Autor
 
-Desenvolvido por [Seu Nome ou Nome da Empresa]
+Desenvolvido por Leonardo Souza by Grupo LT
 
 📫 Contato: [leonardo.castrodesouza@gmail.com]
-🔗 Site/LinkedIn/GitHub (opcional)
+🔗 [Site Connect One](https://leocsbh007.github.io/ConnectOne/)
 
 
